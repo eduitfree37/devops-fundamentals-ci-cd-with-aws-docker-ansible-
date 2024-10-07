@@ -1,0 +1,5 @@
+# Devops Fundamentals - CI/CD with AWS +Docker+Ansible+Jenkins
+
+Join us in exploring the world of DevOps from the ground up, with an emphasis on hands-on experience and real-time projects. Discover how to build solutions for continuous integration and continuous deployment using Jenkins, and learn to deploy Docker containerized applications into AWS Linux servers directly from GitHub. Additionally, we will dive into the automation tool Ansible and its ability to generate scripts for automating the deployment process across various machines using Docker containers. This course is designed for students with no prior knowledge of DevOps tools, and will cover everything from scratch, including basic Linux commands. 
+
+[Detail](https://eduitfree.com/courses/devops-fundamentals-ci-cd-with-aws-docker-ansible-jenkins)
